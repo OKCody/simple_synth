@@ -3,7 +3,7 @@
 
 
 # Code
-```c
+```c++
 
 // Human hearing:  20Hz – 20kHz
 
