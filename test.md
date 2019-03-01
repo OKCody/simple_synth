@@ -1,1 +1,1 @@
-![synth](https://gist.githubusercontent.com/OKCody/fc961f8d00c59aeac066cca8ad707fbd/raw/3178194862f665f5021a8afecc8eb42fccfb0a1b/synth.png)
+![synth](https://gistcdn.githack.com/OKCody/fc961f8d00c59aeac066cca8ad707fbd/raw/157fbdb6a3dbf8761d8d9e2927667e074c6bde14/synth.png)
