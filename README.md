@@ -1,5 +1,8 @@
+# Schematic
 ![](Simple_Synth.webp)
 
+
+# Code
 ```
 
 // Human hearing:  20Hz – 20kHz
