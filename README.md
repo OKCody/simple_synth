@@ -3,7 +3,7 @@
 
 
 # Code
-```
+```arduino
 
 // Human hearing:  20Hz – 20kHz
 
